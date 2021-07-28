@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @musinski
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
-- 💞️ I’m looking to collaborate on web projects
+- 👀 I’m interested in web and mobile development
+- 🌱 I’m currently learning JavaScript and Java 
+- 💞️ I’m looking to collaborate on web and mobile projects
 - 📫 Reach me @ musinskibusiness@gmail.com
 
 <!---
